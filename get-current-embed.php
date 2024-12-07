@@ -40,7 +40,7 @@ if (file_exists($json_file)) {
 // Fallback banner
 echo <<<HTML
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-    <img src="https://conference.wolim.org/wp-content/uploads/2024/11/wcc-2024-banner.jpg" 
+    <img src="images/fallback-banner.jpg" 
          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" 
          alt="No live stream available">
 </div>
